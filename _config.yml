@@ -1,21 +1,21 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Git site of Eric Zemke
 locale:           en_US
 logo:             # filename of a logo image that has been placed into your images directory
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
 # url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Eric Zemke
   avatar: bio-photo.jpg
   bio: "Helmerich Collaborative Learning Center Coordinator."
-  email: #ezemke@ou.edu
+  email: ezemke@ou.edu
   twitter: #username
   facebook: #username
   instagram: #username
   linkedin: #username
-  github: #username
+  github: ezemkeOU
   researchgate: #username
   mendeley: #username
   google:
